@@ -15,9 +15,7 @@ public:
     //
     Schools();
 
-
-    //
-   // Schools(string, int);
+   //Schools(string, int);
 
     Schools(string schoolName, string streetName, string city, string state, int buildingNum, int zipCode);
 
